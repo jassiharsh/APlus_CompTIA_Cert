@@ -1,2 +1,3 @@
-# APlus_CompTIA_Cert
+# A+ (Plus) Certification | CompTIA IT Certifications
+
 Study Guide for A+ Certification
